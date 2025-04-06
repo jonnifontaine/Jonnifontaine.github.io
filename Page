@@ -1,0 +1,86 @@
+Perfect—here’s the full `index.html` file. You can copy and paste this into your GitHub repo to instantly get the homepage live:
+
+---
+
+### **Steps:**
+1. Go to: [https://github.com/jonnifontaine/jonnifontaine.github.io](https://github.com/jonnifontaine/jonnifontaine.github.io)
+2. Click the green **“Add file”** button → choose **“Create new file”**
+3. Name the file: `index.html`
+4. Paste the code below into the big editor box
+5. Scroll down and click **“Commit new file”**
+
+---
+
+### **Paste this code:**
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stop Global Geoengineering</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #f4f4f4;
+      margin: 0;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 3em;
+      color: #ff3333;
+    }
+    h2 {
+      color: #ff9900;
+    }
+    a {
+      color: #33ccff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Stop Global Geoengineering</h1>
+    <p><strong>The sky was never theirs to control.</strong><br>
+    We are witnessing one of the most dangerous experiments in human history—conducted without consent, cloaked in secrecy, and denied by those responsible.</p>
+
+    <p><strong>Aerosol spraying. Solar radiation management. Stratospheric injection.</strong><br>
+    Whatever they choose to call it, the skies tell the truth. Every day, unnatural trails crisscross above us—leaving behind haze, blocking the sun, and disrupting nature itself.</p>
+
+    <p>This is not conspiracy.<br><strong>This is geoengineering.</strong></p>
+
+    <h2>Why We Must Act Now</h2>
+    <ul>
+      <li>Our health is under threat</li>
+      <li>Our climate is being manipulated</li>
+      <li>Our freedom to breathe clean air and live in balance is being stolen</li>
+    </ul>
+
+    <p>You are not imagining it.<br>You are not alone.</p>
+
+    <h2>Take a Stand</h2>
+    <p>
+      <a href="#">Learn what’s happening</a> | 
+      <a href="#">Take action</a> | 
+      <a href="#">Spread the word</a>
+    </p>
+
+    <p><em>Together, we will break the silence. This movement begins with you.</em></p>
+  </div>
+</body>
+</html>
+```
+
+---
+
+Once you commit that, give it a minute and your homepage will go live! Let me know when it’s in—and I’ll help you build the next pages.
