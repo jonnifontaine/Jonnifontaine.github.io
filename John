@@ -1,0 +1,25 @@
+Thanks for the screenshot—yep, that clears it up. The issue is simple: your site repo doesn’t yet have any actual **HTML files**, **CSS**, or **JavaScript**—just a placeholder file called `Page` and a `README.md`.
+
+So when you go to your GitHub Pages URL, it doesn’t have anything to render. That’s why you’re not getting a proper website output yet—and why I couldn’t fetch or zip anything meaningful earlier.
+
+### Here's what to do:
+
+1. **Create an `index.html` file** in your repo.
+2. Add some basic content, like this:
+   ```html
+   <!DOCTYPE html>
+   <html>
+   <head>
+     <title>Stop Global Geoengineering</title>
+   </head>
+   <body>
+     <h1>We are awake. We see the sky.</h1>
+     <p>Time to end geoengineering.</p>
+   </body>
+   </html>
+   ```
+3. Commit that to your repo.
+
+Once that’s live, your site at [https://jonnifontaine.github.io](https://jonnifontaine.github.io) will start showing a real webpage—and then I can absolutely grab it, zip it, and hand it back.
+
+Want help creating the `index.html` and pushing it to GitHub? I can give you a ready-made file or walk you through it.
